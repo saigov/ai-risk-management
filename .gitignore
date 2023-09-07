@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Datasets (it's often good not to push large datasets to a Git repo)
+#data/
+
+# Model weights (same reasoning as for datasets)
+#models/
+
+# Jupyter notebooks checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+

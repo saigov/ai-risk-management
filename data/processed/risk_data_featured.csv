@@ -1,0 +1,6 @@
+transaction_id,transaction_detail,token_count,avg_token_length,risk
+1,"Purchased electronics worth $1200",4,6.5,"risky"
+2,"Bought groceries worth $100",4,7.8,"not risky"
+3,"Wire transfer to account XYZ for $5000",7,4.3,"risky"
+...
+
